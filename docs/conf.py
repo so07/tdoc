@@ -12,5 +12,5 @@ source_parsers = {
 #    'sphinx_markdown_tables',
 #]
 
-source_suffix = ['.md']
+source_suffix = ['.md', '.rst']
 
