@@ -3,5 +3,5 @@ project-name
 Documents
 =========
 .. toctree::
-:maxdepth: 16
-readme
+    :maxdepth: 16
+    README
