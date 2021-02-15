@@ -8,6 +8,8 @@ source_parsers = {
     '.md': CommonMarkParser,
 }
 
+extensions = ['recommonmark']
+
 #extensions = [
 #    'sphinx_markdown_tables',
 #]
